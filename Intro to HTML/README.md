@@ -26,4 +26,4 @@ to implement these concepts, go to the assignment folder.
 
 
 ***NOTE-***
-**All the images and resources needed for the websites are listed in the Blog.**
+**All the images and resources needed for the websites are listed in the Blog.docx in Assignment folder**
